@@ -1,5 +1,6 @@
 /*
   ESP8266 Blink by Simon Peter
+  Edited by Alexandros Panagiotakopoulos
   Blink the blue LED on the ESP-01 module
   This example code is in the public domain
 
