@@ -20,6 +20,7 @@ Custom library that can be set on File > Preferances > Additional Manager Urls >
 
 ### The Chips
 
+![](https://raw.githubusercontent.com/AlexandrosPanag/My_esp8266_Projects/main/ESP8266-NodeMCU-kit-12-E-pinout-gpio-pin.jpeg)
 
 The ESP8266 series, or family, of Wi-Fi chips is produced by Espressif Systems, a fabless semiconductor company operating out of Shanghai, China. The ESP8266 series presently includes the ESP8266EX and ESP8285 chips.
 
