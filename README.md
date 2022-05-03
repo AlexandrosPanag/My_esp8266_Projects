@@ -9,6 +9,8 @@ https://github.com/esp8266/Arduino
 
 Custom library that can be set on File > Preferances > Additional Manager Urls > https://arduino.esp8266.com/stable/package_esp8266com_index.json
 
++ the esp8266 library from boards manager
+
 
 
 ---------------
