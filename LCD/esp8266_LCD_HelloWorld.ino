@@ -1,6 +1,7 @@
 /*********
-  Rui Santos
+  By Rui Santos
   Complete project details at https://randomnerdtutorials.com  
+  Edited by Alexandros Panagiotakopoulos
 *********/
 
 #include <LiquidCrystal_I2C.h>
