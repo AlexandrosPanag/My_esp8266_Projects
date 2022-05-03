@@ -33,7 +33,7 @@ void loop(){
   // print message
   lcd.print(time_count_second);
 
-  lcd.setCursor(8,0);
+  lcd.setCursor(8,0); //display "SEC" message which translates to "seconds elapsed"
   lcd.print("SEC");
 
   
@@ -45,7 +45,7 @@ void loop(){
   lcd.setCursor(0,1);
   lcd.print(minutes_elapsed);
 
-  lcd.setCursor(8,1);
+  lcd.setCursor(8,1); //display "MIN" message which translates to "minutes elapsed"
   lcd.print("MIN");
-  delay(1000);
+  delay(1000); //delay 1 second
 }
