@@ -28,9 +28,7 @@ void loop(){
     
   // set cursor to first column, first row
   lcd.setCursor(0, 0);
-  // print message
-  lcd.print(time_count_second);
-  // clears the display to print new message
-  delay(1000);
-  lcd.clear(); 
+  lcd.print(time_count_second);   // print message
+  delay(1000);    // Wait one second
+  lcd.clear();   // clears the display to print new message
 }
