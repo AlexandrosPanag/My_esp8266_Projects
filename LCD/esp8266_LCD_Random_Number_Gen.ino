@@ -6,8 +6,6 @@
 
 
 
-
-
 // set the LCD number of columns and rows
 int lcdColumns = 16;
 int lcdRows = 2;
@@ -24,7 +22,7 @@ void setup(){
 }
 
 void loop(){
-  //random number generator
+  //random number generator from [0...100]
    for(int i=1; i <=9; i++){
     int r=random(0,100);
     Serial.print(r);
@@ -35,9 +33,7 @@ void loop(){
   lcd.setCursor(0, 0);
   // print message
   lcd.print(r);
-  delay(1000);
-  // clears the display to print new message
-  delay(10000);
-    lcd.clear(); 
+  delay(10000); //delay for 10 seconds
+  lcd.clear(); // clears the display to print new message
    }
 }
