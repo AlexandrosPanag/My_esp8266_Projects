@@ -1,4 +1,4 @@
-DHT_ESO8266
+DHT_ESP8266
 -----
 
-Temperature program. TThe program identifies the current temperature and then prints into the serial port of the esp8266 sensor
+Temperature & humidity program. The program identifies the current temperature and then prints into the serial port of the esp8266 sensor
