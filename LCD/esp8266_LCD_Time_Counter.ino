@@ -7,7 +7,7 @@
 
 
 // set the LCD number of columns and rows
-int time_count_second=0; //Declaring a time counter
+int time_count_second=0; //Declaring a time counter for each second
 int lcdColumns = 16;
 int lcdRows = 2;
 
