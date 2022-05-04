@@ -1,5 +1,14 @@
 # My esp8266 Projects
-My esp8266 Projects
+
+
+
+My esp8266 Projects, some of the programs are compatible 100% with an arduino board except the ones that require cable connections like LCD (you need to connect the LCD pins with an alternative method on an arduino board.
+
+For more examples check out : https://github.com/AlexandrosPanag/My_Arduino_Projects
+
+
+
+
 
 Documentation / Arduino IDE implementation can be found here 
 
