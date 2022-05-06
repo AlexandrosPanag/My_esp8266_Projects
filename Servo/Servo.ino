@@ -29,7 +29,7 @@ void loop() {
     }
     for( positioning = 180; positioning >= 0; positioning -=5) //do the exact opposite get from the position 180 to 0 degrees
     {
-      myservo_1.write(positioning);
+      servo_1.write(positioning);
       delay(500); //delay half a second
       }
 }
