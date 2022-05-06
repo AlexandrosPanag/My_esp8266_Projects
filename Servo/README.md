@@ -1,3 +1,5 @@
+These Projects were based on the book "ARDUINO ΑΛΓΟΡΙΘΜΙΚΗ, ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ ΚΑΙ ΕΦΑΡΜΟΓΕΣ" by Αριστείδης Σ. Μπούρας και Γιάννης Θ. Κάππος.
+
 Servo
 -------
 
@@ -5,3 +7,9 @@ This code was run on Tower Pro MG90S Micro Servo module. We connect the esp pin 
 
 
 This project makes the servo do a clock spin of 180 degrees and then resets it when it reaches it
+
+
+Servo with Potensiometer
+--------
+
+We use the potensiometer in order to set the value of the servo , depending on how we turn the potensiometer the servo will turn.
