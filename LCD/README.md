@@ -1,6 +1,12 @@
 LCD ESP8266 Projects
 -------
 
+Debug
+-----------
+
+A project in order to identify the address of the display in case it doesn't work
+
+
 
 esp8266_LCD_HelloWorld.ino
 ----------
