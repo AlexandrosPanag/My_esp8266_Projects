@@ -1,3 +1,7 @@
+/*********
+ By Alexandros Panagiotakopoulos
+*********/
+
 #include <SPI.h>
 #include <Ethernet.h>
 #include <ESP8266WiFi.h>
