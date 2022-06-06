@@ -1,3 +1,7 @@
+/*********
+ By Alexandros Panagiotakopoulos
+*********/
+
 #include <ESP8266WiFi.h>
 #include <ThingerESP8266.h> //include the neccessary libraries
 
