@@ -9,10 +9,10 @@
 //Thinger Config
 #define USERNAME "" //define your username's password from thinger.io
 #define DEVICE_ID "ESP8266" //define your device's id from thinger.io
-#define DEVICE_CREDENTIAL "HL+1&FCQ@Kq4G-lH" //define your randomly generated credentials from thinger.io
+#define DEVICE_CREDENTIAL "" //define your randomly generated credentials from thinger.io
 
-#define SSID "Redmi 7" //define your router's id
-#define SSID_PASSWORD "mypassword" //define your router's password
+#define SSID "" //define your router's id
+#define SSID_PASSWORD "" //define your router's password
 
 
 int time_count_second=0; //declaring a global counter variable
