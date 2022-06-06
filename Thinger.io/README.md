@@ -23,4 +23,4 @@ Timer.ino
 ----------------------
 
 
-A
+A time monitoring program through the Thinger.io website. It helps us keep track of how long the code has been running
