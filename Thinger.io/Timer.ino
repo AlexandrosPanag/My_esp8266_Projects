@@ -1,6 +1,3 @@
-//for the full documentation you can check out this link : https://community.thinger.io/t/arduino-ethernet-dht11/22
-
-
 #include <SPI.h>
 #include <Ethernet.h>
 #include <ESP8266WiFi.h>
